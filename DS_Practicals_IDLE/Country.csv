@@ -1,0 +1,32 @@
+Country,ISO-2-CODE,ISO-3-Code,ISO-M49
+Afghanistan,AF,AFG,4
+Aland Islands,AX,ALA,248
+Albania,AL,ALB,8
+Algeria,DZ,DZA,12
+American Samoa,AS,ASM,16
+Argentina,AR,ARG,32
+Australia,AU,AUS,36
+Brazil,BR,BRA,76
+Canada,CA,CAN,124
+China,CN,CHN,156
+Egypt,EG,EGY,818
+France,FR,FRA,250
+Germany,DE,DEU,276
+India,IN,IND,356
+Italy,IT,ITA,380
+Japan,JP,JPN,392
+Kenya,KE,KEN,404
+Mexico,MX,MEX,484
+Nepal,NP,NPL,524
+Nigeria,NG,NGA,566
+Russia,RU,RUS,643
+South Africa,ZA,ZAF,710
+Spain,ES,ESP,724
+Sweden,SE,SWE,752
+United Kingdom,GB,GBR,826
+United States,US,USA,840
+Wallis and Futuna Islands,WF,WLF,876
+Western Sahara,EH,ESH,732
+Yemen,YE,YEM,887
+Zambia,ZM,ZMB,894
+Zimbabwe,ZW,ZWE,716
